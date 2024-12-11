@@ -7,7 +7,7 @@ I'm Zalfa - a business student doing extra miles on the tech world alongside my 
 - 🌱 While doing **Machine Learning and Fullstack Development**
 - 🚀 **Interested in** Aerospace Engineering & Space Systems
 
-## 💡 Skills & Interests
+## 💡 Skills
 - 🤖 Machine Learning Engineering
 <!---"- 📊 Data Analysis & Visualization"--->
 <!---"- 🪟 Windows Environtment Optimization"--->

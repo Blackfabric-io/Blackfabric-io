@@ -42,7 +42,7 @@ I'm Zalfa - a business student passionate about technology and innovation! Enhan
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blackfabric-io&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blackfabric-io&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)--->
 
 <!---
 Blackfabric-io/Blackfabric-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
